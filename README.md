@@ -8,7 +8,7 @@
 The app is designed to toggle through the question and answers, such that when you click on the command botton with the question "Who is the president of America", it shows you the correct response "Donald Trump". 
 
 ### App Walk-though
-<img src="https://recordit.co/EZzouC6QrP" width=200><br>
+<img src="https://recordit.co/EZzouC6QrP.gif" width=200><br>
 
 ## Required
 - [X] Create New Project in Xcode
