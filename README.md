@@ -1,3 +1,7 @@
+### App Walk-though
+<img src="http://g.recordit.co/pRvv5b6GWT.gif" width=200><br>
+
+
 ## Flashcards
 
 📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users stories you completed and how your app looked and functioned at each step.
@@ -6,9 +10,6 @@
 
 ### App Description
 The app is designed to toggle through the question and answers, such that when you click on the command botton with the question "Who is the president of America", it shows you the correct response "Donald Trump". 
-
-### App Walk-though
-<img src="http://g.recordit.co/pRvv5b6GWT.gif" width=200><br>
 
 ## Required
 - [X] Create New Project in Xcode
