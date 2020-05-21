@@ -1,5 +1,5 @@
 ### App Walk-though
-<img src="http://g.recordit.co/pRvv5b6GWT.gif" width=300><br>
+<img src="http://g.recordit.co/pRvv5b6GWT.gif" width=100><br>
 
 
 ## Flashcards
